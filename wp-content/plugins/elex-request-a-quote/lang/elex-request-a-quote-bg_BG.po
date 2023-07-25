@@ -1,0 +1,2240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ELEX WooCommerce Request a Quote\n"
+"POT-Creation-Date: 2023-07-14 11:30+0530\n"
+"PO-Revision-Date: 2023-07-14 11:31+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: class-elex-request-a-quote.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: assets/js/components/form_settings.js:210
+#: assets/js/components/settings/form_setting_header.js:14
+msgid "Form Settings"
+msgstr "Настройки на формуляра"
+
+#: assets/js/components/form_settings.js:219
+
+msgid "Show Request a Quote Form"
+msgstr "Показване на формуляр за заявка на оферта"
+
+#: assets/js/components/form_settings.js:230
+#: assets/js/components/settings/form_setting_header.js:35
+
+msgid ""
+"Turn this Off, if you want to use any third party form to get the quote "
+"requests."
+msgstr ""
+"Изключете това Изключете, ако искате да използвате формуляр на трета страна, "
+"за да получите исканията за оферта."
+
+#: assets/js/components/form_settings.js:239
+#: assets/js/components/settings/form_setting_header.js:44
+
+msgid "Form Header Title"
+msgstr "Заглавие на заглавка на формуляр"
+
+#: assets/js/components/form_settings.js:260
+
+msgid "Fill Your Details"
+msgstr "Попълнете вашите данни"
+
+#: assets/js/components/form_settings.js:264
+#: assets/js/components/settings/form_setting_header.js:67
+
+msgid "Form Submit Actions"
+msgstr "Формуляр за подаване на действия"
+
+#: assets/js/components/form_settings.js:269
+#: assets/js/components/settings/form_setting_header.js:72
+
+msgid "\"Send Request\" Button Redirectional URl"
+msgstr "Бутон \"Изпращане на заявка\" Пренасочване URl"
+
+#: assets/js/components/form_settings.js:298
+#: assets/js/components/settings/form_setting_header.js:98
+
+msgid "\"Send Request\" Success Message"
+msgstr "Съобщение за успех \"Изпращане на заявка\""
+
+#: assets/js/components/form_settings.js:319
+msgid "Your request has been sent successfully."
+msgstr "Вашата заявка е изпратена успешно."
+
+#: assets/js/components/form_settings.js:325
+
+msgid "Form Field Settings"
+msgstr "Настройки на поле на формуляр"
+
+#: assets/js/components/form_settings.js:331
+
+msgid ""
+"When you create custom fields, the placeholder for the email template will "
+"be created based on the label text (For eg: Upload Image will be "
+"@Upload_Image). If you make changes to the label text in the future, please "
+"make sure to use the updated placeholder in the email body. Also, the label "
+"text cannot be modified for orders placed before the change."
+msgstr ""
+"Когато създавате персонализирани полета, контейнерът за шаблона за имейл ще "
+"бъде създаден въз основа на текста на етикета (например: Качване на "
+"изображение ще бъде @Upload_Image). Ако направите промени в текста на "
+"етикета в бъдеще, моля, уверете се, че използвате актуализирания контейнер в "
+"тялото на имейла. Също така, текстът на етикета не може да бъде променян за "
+"поръчки, направени преди промяната."
+
+#: assets/js/components/form_settings.js:339
+msgid "Label Name"
+msgstr "Име на етикета"
+
+#: assets/js/components/form_settings.js:340
+
+msgid "Field Type "
+msgstr "Тип поле "
+
+#: assets/js/components/form_settings.js:341
+
+msgid "Placeholder "
+msgstr "Контейнер "
+
+#: assets/js/components/form_settings.js:342
+
+msgid "Connected To "
+msgstr "Свързан с "
+
+#: assets/js/components/form_settings.js:343
+
+msgid "Required "
+msgstr "Изисква "
+
+#: assets/js/components/form_settings.js:344
+msgid "Actions "
+msgstr "Операции "
+
+#: assets/js/components/form_settings.js:369
+
+msgid "Add New Field "
+msgstr "Добавяне на ново поле "
+
+#: assets/js/components/form_settings.js:373
+#: view/listpage_form_setting/additional_options.php:162
+#: view/listpage_form_setting/quote_list.php:247
+#: view/notification_settings/general.php:115
+#: view/notification_settings/google_chat.php:79
+#: view/notification_settings/sms.php:170 view/settings/general.php:977
+#: view/settings/hide_addtocart_price.php:342 view/settings/template.php:802
+#: view/settings/widget.php:159
+msgid "Save Changes"
+msgstr "Запази промените"
+
+#: assets/js/components/quote_list/quote_list_content.js:49
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:62
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:70
+#: src/Templates/non_logo_admin.php:79 src/Templates/non_logo_customer.php:80
+#: src/Templates/order_items.php:9 src/Templates/rectangle_logo_admin.php:88
+#: src/Templates/rectangle_logo_customer.php:89
+#: src/Templates/squared_logo_admin.php:87
+#: src/Templates/squared_logo_customer.php:83
+msgid "Price"
+msgstr "Цена"
+
+#: assets/js/components/quote_list/quote_list_content.js:61
+#: view/listpage_form_setting/quote_list.php:196
+msgid "Quantity"
+msgstr "Количество"
+
+#: assets/js/components/quote_list/quote_list_content.js:74
+#: assets/js/components/quote_list/quote_list_content.js:88
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:64
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:117
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:72
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:125
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:122
+#: src/Templates/non_logo_admin.php:85 src/Templates/non_logo_admin.php:181
+#: src/Templates/non_logo_customer.php:86
+#: src/Templates/non_logo_customer.php:181 src/Templates/order_items.php:15
+#: src/Templates/order_items.php:111 src/Templates/rectangle_logo_admin.php:94
+#: src/Templates/rectangle_logo_admin.php:193
+#: src/Templates/rectangle_logo_customer.php:95
+#: src/Templates/rectangle_logo_customer.php:194
+#: src/Templates/squared_logo_admin.php:93
+#: src/Templates/squared_logo_admin.php:189
+#: src/Templates/squared_logo_customer.php:89
+#: src/Templates/squared_logo_customer.php:185
+msgid "Subtotal"
+msgstr "Междинна сума"
+
+#: assets/js/components/quote_list/quote_list_content.js:100
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:125
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:133
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:130
+#: src/Templates/non_logo_admin.php:216 src/Templates/non_logo_customer.php:216
+#: src/Templates/order_items.php:146 src/Templates/rectangle_logo_admin.php:228
+#: src/Templates/rectangle_logo_customer.php:229
+#: src/Templates/squared_logo_admin.php:224
+#: src/Templates/squared_logo_customer.php:220
+msgid "Total"
+msgstr "Общо"
+
+#: assets/js/components/quote_list/quote_list_content.js:179
+msgid "Update List"
+msgstr "Списък за обновяване"
+
+#: assets/js/components/quote_list/quote_list_content.js:370
+msgid "Product Detail"
+msgstr "Product Detail"
+
+#: assets/js/components/quote_list/quote_list_empty.js:21
+
+msgid "Go to Shop Page"
+msgstr "Отиди на страницата на магазина"
+
+#: assets/js/components/quote_list/success_alert_toast.js:14
+#: src/FormSetting/FormSettingController.php:239
+
+msgid "Saved Successfully."
+msgstr "Записан успешно."
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Select a type"
+msgstr "Изберете вид"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Text"
+msgstr "Текст"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Textarea"
+msgstr "Текстово поле"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Email"
+msgstr "Имейл"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Url"
+msgstr "Url"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Image"
+msgstr "Изображение"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Checkbox"
+msgstr "Отметка"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Date"
+msgstr "Дата"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Number"
+msgstr "Номер"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Radio"
+msgstr "Радио"
+
+#: assets/js/components/settings/form_fields.js:273
+msgid "Tel"
+msgstr "Тел. №"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "Select Connected To"
+msgstr "Изберете Свързан към"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_first_name"
+msgstr "billing_first_name"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_last_name"
+msgstr "billing_last_name"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_email"
+msgstr "billing_email"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_company"
+msgstr "billing_company"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_country"
+msgstr "billing_country"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_address_1"
+msgstr "billing_address_1"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_address_2"
+msgstr "billing_address_2"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_city"
+msgstr "billing_city"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_state"
+msgstr "billing_state"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_postcode"
+msgstr "billing_postcode"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "billing_phone"
+msgstr "billing_phone"
+
+#: assets/js/components/settings/form_fields.js:304
+
+msgid "order_comments"
+msgstr "order_comments"
+
+#: assets/js/components/settings/form_fields.js:304
+msgid "Custom Field"
+msgstr "Персонализирано поле"
+
+#: assets/js/components/settings/form_fields.js:395
+
+msgid "Enter values and click enter to add more"
+msgstr "Въведете стойности и щракнете върху Enter, за да добавите още"
+
+#: assets/js/components/settings/form_fields.js:396
+
+msgid "Click Enter to add more"
+msgstr "Щракнете върху Enter, за да добавите още"
+
+#: assets/js/components/settings/form_setting_header.js:23
+
+msgid "Show Request a Quote"
+msgstr "Показване на заявка за оферта"
+
+#: assets/js/components/toast_message/update_message.js:16
+
+msgid "Updated Successfully"
+msgstr "Актуализиран успешно"
+
+#: class-elex-request-a-quote.php:50
+
+msgid ""
+"WooCommerce plugin must be active for ELEX Request a Quote Plugin to work."
+msgstr ""
+"WooCommerce плъгин трябва да бъде активен за ELEX Заявка за оферта плъгин да "
+"работи."
+
+#: class-elex-request-a-quote.php:63 src/RequestAQuote.php:259
+#: src/RequestAQuote.php:260 view/header.php:4
+msgid "Settings"
+msgstr "Настройки"
+
+#: class-elex-request-a-quote.php:64 view/market.php:115
+msgid "Documentation"
+msgstr "Документация"
+
+#: class-elex-request-a-quote.php:65
+msgid "Support"
+msgstr "Поддръжка"
+
+#: class-elex-request-a-quote.php:74
+
+msgid ""
+"The Premium version of ELEX Request a Quote is already installed and "
+"activated. Please deactivate it in order to activate the basic version. If "
+"you encounter any issues, kindly contact our "
+msgstr ""
+"Премиум версията на ELEX Request a Quote вече е инсталирана и активирана. "
+"Моля, деактивирайте го, за да активирате основната версия. Ако срещнете "
+"някакви проблеми, любезно се свържете с нашия "
+
+#: class-elex-request-a-quote.php:76
+
+msgid "for assistance."
+msgstr "за съдействие."
+
+#: class-elex-request-a-quote.php:85 class-elex-request-a-quote.php:89
+
+msgid "Support "
+msgstr "Поддръжка "
+
+#: src/ElementorWidget/Eraq_add_to_quote_widget.php:9
+#: src/Settings/Models/GeneralSettings.php:91
+
+msgid "Add to Quote"
+msgstr "Добави към офертата"
+
+#: src/FormSetting/FormSettingController.php:82
+#: src/FormSetting/FormSettingController.php:113
+#: src/FormSetting/FormSettingController.php:289
+#: src/FormSetting/FormSettingController.php:385
+
+msgid "Name and type Can not be empty"
+msgstr "Име и тип Не може да бъде празен"
+
+#: src/FormSetting/FormSettingController.php:97
+
+msgid "Field has been rearranged successfully"
+msgstr "Полето е пренаредено успешно"
+
+#: src/FormSetting/FormSettingController.php:137
+#: src/FormSetting/FormSettingController.php:274
+#: src/FormSetting/FormSettingController.php:408
+
+msgid "Enter options for the selcted types"
+msgstr "Въведете опции за избраните типове"
+
+#: src/FormSetting/FormSettingController.php:151
+#: src/FormSetting/FormSettingController.php:320
+#: src/FormSetting/FormSettingController.php:353
+#: src/FormSetting/FormSettingController.php:424
+
+msgid "Atleast one option is required"
+msgstr "Изисква се поне една опция"
+
+#: src/FormSetting/FormSettingController.php:164
+#: src/FormSetting/FormSettingController.php:333
+
+msgid "Already exist"
+msgstr "Вече съществува"
+
+#: src/FormSetting/FormSettingController.php:177
+
+msgid "Field has been added successfully"
+msgstr "Полето е добавено успешно"
+
+#: src/FormSetting/FormSettingController.php:366
+#: src/FormSetting/FormSettingController.php:437
+#: src/FormSetting/FormSettingController.php:476
+
+msgid "No Field Exist"
+msgstr "Не съществува поле"
+
+#: src/FormSetting/FormSettingController.php:448
+
+msgid "Field has been edited successfully"
+msgstr "Полето е редактирано успешно"
+
+#: src/FormSetting/FormSettingController.php:492
+
+msgid "Field has been "
+msgstr "Полето е било "
+
+#: src/FormSetting/FormSettingController.php:516
+
+msgid "Invalid field"
+msgstr "Невалидно поле"
+
+#: src/FormSetting/FormSettingController.php:527
+
+msgid "Field has been deleted"
+msgstr "Полето е изтрито"
+
+#: src/FormSetting/FormSettingController.php:604
+#: src/FormSetting/FormSettingController.php:612
+
+msgid "The "
+msgstr "т по "
+
+#: src/FormSetting/Models/FormSettings.php:42
+
+msgid "Your request has been submitted."
+msgstr "Вашето искане е подадено."
+
+#: src/FormSetting/Models/FormSettings.php:49
+
+msgid "Add your first name."
+msgstr "Добавете първото си име."
+
+#: src/FormSetting/Models/FormSettings.php:64
+
+msgid "Add your last name."
+msgstr "Добавете фамилното си име."
+
+#: src/FormSetting/Models/FormSettings.php:79
+
+msgid "Add your email."
+msgstr "Добавете имейла си."
+
+#: src/FormSetting/Models/FormSettings.php:95
+
+msgid "Enter your Phone number"
+msgstr "Въведете телефонния си номер"
+
+#: src/HelpAndSupport/HelpAndSupportController.php:44
+msgid "FAQs"
+msgstr "ЧЗВ"
+
+#: src/HelpAndSupport/HelpAndSupportController.php:49
+
+msgid "Raise a Ticket"
+msgstr "Вдигнете билет"
+
+#: src/Notification/NotificationController.php:330
+
+msgid "General notification"
+msgstr "Общо уведомление"
+
+#: src/Notification/NotificationController.php:335
+#: view/notification_settings/sms.php:13
+
+msgid "SMS Notification"
+msgstr "SMS известяване"
+
+#: src/Notification/NotificationController.php:340
+#: view/notification_settings/google_chat.php:14
+
+msgid "Google Chat Notification"
+msgstr "Известие за чат в Google"
+
+#: src/Quotelist/ListPageController.php:132
+
+msgid "Quote List Page"
+msgstr "Страница със списък на оферти"
+
+#: src/Quotelist/ListPageController.php:137
+msgid "Additional Options"
+msgstr "Допълнителни Опции"
+
+#: src/Quotelist/ListPageController.php:142
+
+msgid "Quote Form"
+msgstr "Формуляр за оферта"
+
+#: src/Quotelist/ListPageController.php:183
+
+msgid "Your Quote List is Empty"
+msgstr "Вашият списък с оферти е празен"
+
+#: src/Quotelist/Models/QuoteListModel.php:986
+#: src/Quotelist/Models/QuoteListModel.php:1035
+msgid "First name"
+msgstr "Име"
+
+#: src/Quotelist/Models/QuoteListModel.php:990
+#: src/Quotelist/Models/QuoteListModel.php:1039
+msgid "Last name"
+msgstr "Фамилия"
+
+#: src/Quotelist/Models/QuoteListModel.php:994
+#: src/Quotelist/Models/QuoteListModel.php:1043
+msgid "Company"
+msgstr "Организация"
+
+#: src/Quotelist/Models/QuoteListModel.php:998
+#: src/Quotelist/Models/QuoteListModel.php:1047
+msgid "Address line 1"
+msgstr "Адрес"
+
+#: src/Quotelist/Models/QuoteListModel.php:1002
+#: src/Quotelist/Models/QuoteListModel.php:1051
+msgid "Address line 2"
+msgstr "Адрес ред 2"
+
+#: src/Quotelist/Models/QuoteListModel.php:1006
+#: src/Quotelist/Models/QuoteListModel.php:1055
+msgid "City"
+msgstr "Град"
+
+#: src/Quotelist/Models/QuoteListModel.php:1010
+#: src/Quotelist/Models/QuoteListModel.php:1059
+msgid "Postcode / ZIP"
+msgstr "Пощенски код"
+
+#: src/Quotelist/Models/QuoteListModel.php:1014
+#: src/Quotelist/Models/QuoteListModel.php:1063
+msgid "Country / Region"
+msgstr "Държава"
+
+#: src/Quotelist/Models/QuoteListModel.php:1018
+#: src/Quotelist/Models/QuoteListModel.php:1067
+msgid "Select a country / region&hellip;"
+msgstr "Изберете държава / регион&hellip;"
+
+#: src/Quotelist/Models/QuoteListModel.php:1021
+#: src/Quotelist/Models/QuoteListModel.php:1070
+msgid "State / County"
+msgstr "Област"
+
+#: src/Quotelist/Models/QuoteListModel.php:1026
+msgid "Email address"
+msgstr "Имейл адрес"
+
+#: src/Quotelist/Models/QuoteListModel.php:1029
+msgid "Phone"
+msgstr "Телефон"
+
+#: src/Quotelist/Models/QuoteListModel.php:1085
+msgid "Billing"
+msgstr "Фактуриране"
+
+#: src/Quotelist/Models/QuoteListModel.php:1130
+msgid "Shipping"
+msgstr "Доставка"
+
+#: src/Quotelist/Models/QuoteListModel.php:1174
+msgid "General"
+msgstr "Основни"
+
+#: src/Quotelist/Models/QuoteListModel.php:1330
+
+msgid "First name should be a string."
+msgstr "Първото име трябва да бъде низ."
+
+#: src/Quotelist/Models/QuoteListModel.php:1336
+
+msgid "Last name should be a string."
+msgstr "Фамилното име трябва да е низ."
+
+#: src/Quotelist/Models/QuoteListModel.php:1341
+
+msgid "Company name should be a string."
+msgstr "Името на фирмата трябва да бъде низ."
+
+#: src/Quotelist/Models/QuoteListModel.php:1346
+
+msgid "Email should be in valid format."
+msgstr "Имейлът трябва да бъде във валиден формат."
+
+#: src/Quotelist/Models/QuoteListModel.php:1351
+
+msgid "Email should be a int of length 10."
+msgstr "Електронната поща трябва да бъде с дължина 10."
+
+#: src/Quotelist/Models/QuoteListModel.php:1356
+
+msgid "Address 1  should be a string."
+msgstr "Адрес 1 трябва да бъде низ."
+
+#: src/Quotelist/Models/QuoteListModel.php:1361
+
+msgid "Address 2  should be a string."
+msgstr "Адрес 2 трябва да бъде низ."
+
+#: src/Quotelist/Models/QuoteListModel.php:1366
+
+msgid "City name  should be a string."
+msgstr "Името на града трябва да бъде низ."
+
+#: src/Quotelist/Models/QuoteListModel.php:1371
+
+msgid "state name  should be a string."
+msgstr "името на държавата трябва да бъде низ."
+
+#: src/Quotelist/Models/QuoteListModel.php:1376
+
+msgid "Postcode  should be a string."
+msgstr "Пощенският код трябва да бъде низ."
+
+#: src/Quotelist/Models/QuoteListModel.php:1382
+
+msgid "Country name should be a string."
+msgstr "Името на страната трябва да бъде низ."
+
+#: src/Quotelist/Models/QuoteListModel.php:1387
+
+msgid "Address array is empty"
+msgstr "Адресният масив е празен"
+
+#: src/Quotelist/Models/QuoteListModel.php:1395
+
+msgid "Custom Fields array is empty"
+msgstr "Масивът \"Потребителски полета\" е празен"
+
+#: src/Quotelist/Models/QuoteListModel.php:1409
+msgid "User not found"
+msgstr "Потребителят не е намерен"
+
+#: src/Quotelist/Models/QuoteListModel.php:1424
+
+msgid "Unauthorize Access"
+msgstr "Неоторизиран достъп"
+
+#: src/Quotelist/QuoteListController.php:115
+
+msgid "Your request has been sent successfully"
+msgstr "Вашата заявка е изпратена успешно"
+
+#: src/Quotelist/QuoteListController.php:138
+
+msgid "ELEX Quote Request Details"
+msgstr "Подробности за заявката за оферта на ELEX"
+
+#: src/RequestAQuote.php:128
+
+msgid "Quotes List"
+msgstr "Списък с оферти"
+
+#: src/RequestAQuote.php:139 view/settings/template.php:466
+
+msgid "Quote Received"
+msgstr "Получена оферта"
+
+#: src/RequestAQuote.php:248 src/RequestAQuote.php:249
+msgid "Request a Quote"
+msgstr "ЗАЯВКА ЗА ДОСТАВКА"
+
+#: src/RequestAQuote.php:268 src/RequestAQuote.php:269 view/header.php:4
+
+msgid "Customize Quote List & Form"
+msgstr "Персонализиране на формуляр за списък с оферти"
+
+#: src/RequestAQuote.php:276 src/RequestAQuote.php:277
+#: view/help_support_header.php:1
+
+msgid "Help & Support"
+msgstr "Помощ и поддръжка"
+
+#: src/Settings/Models/GeneralSettings.php:90
+#: src/Settings/SettingsController.php:389 view/settings/general.php:150
+
+msgid "Product successfully added to the Quote List"
+msgstr "Продуктът е добавен успешно към списъка с оферти"
+
+#: src/Settings/SettingsController.php:406
+
+msgid "show_for_all_products"
+msgstr "show_for_all_products"
+
+#: src/Settings/SettingsController.php:509
+msgid "General Settings"
+msgstr "Основни настройки"
+
+#: src/Settings/SettingsController.php:514
+
+msgid "Hide Add to Cart & Price"
+msgstr "Скрий Добави в кошницата & Цена"
+
+#: src/Settings/SettingsController.php:519
+
+msgid "Notification Settings"
+msgstr "Настройки за известяване"
+
+#: src/Settings/SettingsController.php:523
+
+msgid "Template Settings"
+msgstr "Настройки на шаблон"
+
+#: src/Settings/SettingsController.php:527
+
+msgid "Quote List Menu"
+msgstr "Меню \"Списък на оферти\""
+
+#: src/Settings/SettingsController.php:531
+msgid "Go Premium"
+msgstr "Отидете към премиум"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:7
+
+msgid "Received a Quote!"
+msgstr "Получих оферта!"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:21
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:26
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:23
+
+msgid "Quote #213"
+msgstr "Цитат #213"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:26
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:30
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:32
+
+msgid "Issued By: Max Smith"
+msgstr "Изпълнител: Max Smith"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:29
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:33
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:35
+
+msgid "Issued Date: 02-March-2022"
+msgstr "Дата на издаване: 02-март-2022"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:32
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:36
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:38
+
+msgid "Expiry Date: 04-March-2022"
+msgstr "Срок на годност: 04-март-2022"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:41
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:49
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:46
+
+msgid "Will Miller"
+msgstr "Уил Милър"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:44
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:52
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:49
+
+msgid "Kelly.elliot@gmail.com"
+msgstr "Kelly.elliot@gmail.com"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:47
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:55
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:52
+
+msgid "(190)081-0336"
+msgstr "(190)081-0336"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:61
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:69
+#: src/Templates/non_logo_admin.php:76 src/Templates/non_logo_customer.php:77
+#: src/Templates/order_items.php:6 src/Templates/rectangle_logo_admin.php:85
+#: src/Templates/rectangle_logo_customer.php:86
+#: src/Templates/squared_logo_admin.php:84
+#: src/Templates/squared_logo_customer.php:80
+msgid "Products"
+msgstr "Продукти"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:63
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:71
+#: src/Templates/non_logo_admin.php:82 src/Templates/non_logo_customer.php:83
+#: src/Templates/order_items.php:12 src/Templates/rectangle_logo_admin.php:91
+#: src/Templates/rectangle_logo_customer.php:92
+#: src/Templates/squared_logo_admin.php:90
+#: src/Templates/squared_logo_customer.php:86
+
+msgid "Qty."
+msgstr "Кол."
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:77
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:97
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:85
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:105
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:82
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:102
+msgid "Product Name"
+msgstr "Име на Продукта"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:78
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:98
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:86
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:106
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:83
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:103
+
+msgid "SKU:s123432"
+msgstr "Артикул:s123432"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:121
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:129
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:126
+#: src/Templates/non_logo_admin.php:189 src/Templates/non_logo_customer.php:189
+#: src/Templates/order_items.php:119 src/Templates/rectangle_logo_admin.php:201
+#: src/Templates/rectangle_logo_customer.php:202
+#: src/Templates/squared_logo_admin.php:197
+#: src/Templates/squared_logo_customer.php:193
+msgid "Fees"
+msgstr "Такси"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:137
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:145
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:142
+#: src/TemplateSetting/Models/TemplateModel.php:305
+
+msgid "Accept & Pay"
+msgstr "Приеми & Плати"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:143
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:152
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:148
+#: src/Templates/non_logo_admin.php:230 src/Templates/non_logo_customer.php:246
+#: src/Templates/order_items.php:160 src/Templates/rectangle_logo_admin.php:242
+#: src/Templates/rectangle_logo_customer.php:258
+#: src/Templates/squared_logo_admin.php:238
+#: src/Templates/squared_logo_customer.php:246
+msgid "Terms & Conditions"
+msgstr "Правила и условия"
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:146
+
+msgid ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt\n"
+"                        ut labore et dolore magna aliquyam erat, sed diam "
+"voluptua. At vero eos."
+msgstr ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt\n"
+"                        Ut labore et dolore magna aliquyam erat, sed diam "
+"voluptua. На vero eos."
+
+#: src/TemplateSetting/DefaultTemplates/non_logo_template.php:155
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:165
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:160
+#: src/Templates/non_logo_admin.php:242 src/Templates/non_logo_customer.php:258
+#: src/Templates/rectangle_logo_admin.php:255
+#: src/Templates/rectangle_logo_customer.php:271
+#: src/Templates/squared_logo_admin.php:251
+#: src/Templates/squared_logo_customer.php:259
+
+msgid "Powered by ELEX Request a Quote"
+msgstr "Осъществено от ELEX Запитване за оферта"
+
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:45
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:42
+#: src/Templates/rectangle_logo_admin.php:54
+#: src/Templates/rectangle_logo_customer.php:54
+#: src/Templates/squared_logo_admin.php:52
+#: src/Templates/squared_logo_customer.php:48
+msgid "Customer Details"
+msgstr "Клиентски детайли"
+
+#: src/TemplateSetting/DefaultTemplates/rectangle_logo_template.php:156
+#: src/TemplateSetting/DefaultTemplates/squared_logo_template.php:151
+
+msgid ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt\n"
+"\t\t\t\t\t\tut labore et dolore magna aliquyam erat, sed diam voluptua. At "
+"vero eos."
+msgstr ""
+"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy "
+"eirmod tempor invidunt\n"
+"\t\t\t\t\t\tUt labore et dolore magna aliquyam erat, sed diam voluptua. На "
+"vero eos."
+
+#: src/TemplateSetting/Models/TemplateModel.php:237
+
+msgid "Product Name: Price * Quantity = Subtotal"
+msgstr "Име на продукта: Цена * Количество = Междинна сума"
+
+#: src/TemplateSetting/Models/TemplateModel.php:247
+
+msgid "Total :"
+msgstr "Възлизам:"
+
+#: src/Templates/non_logo_admin.php:14
+#: src/Templates/rectangle_logo_customer.php:27
+#: src/Templates/squared_logo_admin.php:22
+
+msgid "Quote "
+msgstr "Цитат "
+
+#: src/Templates/non_logo_admin.php:15 src/Templates/non_logo_customer.php:15
+#: src/Templates/rectangle_logo_admin.php:28
+#: src/Templates/rectangle_logo_customer.php:28
+#: src/Templates/squared_logo_admin.php:23
+#: src/Templates/squared_logo_customer.php:22
+msgid "#"
+msgstr "#"
+
+#: src/Templates/non_logo_admin.php:30 src/Templates/non_logo_customer.php:30
+#: src/Templates/rectangle_logo_admin.php:36
+#: src/Templates/rectangle_logo_customer.php:35
+#: src/Templates/squared_logo_admin.php:37
+#: src/Templates/squared_logo_customer.php:35
+
+msgid "Issued By: "
+msgstr "Издаден от: "
+
+#: src/Templates/non_logo_admin.php:36 src/Templates/non_logo_customer.php:36
+#: src/Templates/rectangle_logo_admin.php:43
+#: src/Templates/rectangle_logo_customer.php:41
+#: src/Templates/squared_logo_admin.php:44
+#: src/Templates/squared_logo_customer.php:41
+
+msgid "Issued Date: "
+msgstr "Дата на издаване: "
+
+#: src/Templates/non_logo_admin.php:198 src/Templates/non_logo_customer.php:198
+#: src/Templates/order_items.php:128 src/Templates/rectangle_logo_admin.php:210
+#: src/Templates/rectangle_logo_customer.php:211
+#: src/Templates/squared_logo_admin.php:206
+#: src/Templates/squared_logo_customer.php:202
+msgid "Discount"
+msgstr "Отстъпка"
+
+#: src/Templates/non_logo_admin.php:207 src/Templates/non_logo_customer.php:207
+#: src/Templates/order_items.php:137 src/Templates/rectangle_logo_admin.php:219
+#: src/Templates/rectangle_logo_customer.php:220
+#: src/Templates/squared_logo_admin.php:215
+#: src/Templates/squared_logo_customer.php:211
+msgid "Tax"
+msgstr "Данък"
+
+#: src/Templates/non_logo_customer.php:14
+#: src/Templates/rectangle_logo_admin.php:27
+msgid "Quote"
+msgstr "Цитат"
+
+#: src/create_order_status.php:15
+
+msgid "Quote Requested"
+msgstr "Поискана оферта"
+
+#: src/create_order_status.php:20
+, php-format
+msgid "Quote Requested (%s)"
+msgid_plural "Quote Requested (%s)"
+msgstr[0] "Поискана оферта (%s)"
+msgstr[1] "Поискана оферта (%s)"
+
+#: src/create_order_status.php:26 view/settings/template.php:575
+
+msgid "Quote Approved"
+msgstr "Офертата е одобрена"
+
+#: src/create_order_status.php:31
+, php-format
+msgid "Quote Approved (%s)"
+msgid_plural "Quote Approved (%s)"
+msgstr[0] "Одобрена оферта (%s)"
+msgstr[1] "Одобрена оферта (%s)"
+
+#: src/create_order_status.php:37 view/notification_settings/general.php:72
+#: view/settings/template.php:685
+
+msgid "Quote Rejected"
+msgstr "Офертата е отхвърлена"
+
+#: src/create_order_status.php:42
+, php-format
+msgid "Quote Rejected (%s)"
+msgid_plural "Quote Rejected (%s)"
+msgstr[0] "Цитатът е отхвърлен (%s)"
+msgstr[1] "Цитатът е отхвърлен (%s)"
+
+#: view/header.php:15
+, php-format
+msgid ""
+"To customize your website's quote request form and quote items listing page, "
+"visit  %1$s section."
+msgstr ""
+"За да персонализирате формуляра за заявка за оферта на уебсайта си и "
+"страницата с елементи за оферта, посетете раздела %1$s."
+
+#: view/header.php:20
+, php-format
+msgid "To set up request a quote on your site, visit  %1$s section."
+msgstr "За да настроите заявка за оферта на сайта си, посетете раздела %1$s."
+
+#: view/header.php:39
+
+msgid "go_premium"
+msgstr "go_premium"
+
+#: view/header.php:43
+
+msgid "elex_raq_basic"
+msgstr "elex_raq_basic"
+
+#: view/help_support/faqs.php:5
+
+msgid "Q1."
+msgstr "Q1."
+
+#: view/help_support/faqs.php:6
+
+msgid "Can I hide the “Add to Cart” button on the product page?"
+msgstr ""
+"Мога ли да скрия бутона \"Добави в количката\" на страницата на продукта?"
+
+#: view/help_support/faqs.php:11
+
+msgid ""
+"Yes, You can easily hide the ‘Add to Cart’ button on the product page as "
+"well as the shop page."
+msgstr ""
+"Да, Можете лесно да скриете бутона \"Добави в количката\" на страницата на "
+"продукта, както и на страницата на магазина."
+
+#: view/help_support/faqs.php:17
+
+msgid "Q2."
+msgstr "Q2."
+
+#: view/help_support/faqs.php:18
+
+msgid "Can I hide the price of the products?"
+msgstr "Мога ли да скрия цената на продуктите?"
+
+#: view/help_support/faqs.php:26
+
+msgid "Yes, You can hide the price of a particular product.\n"
+msgstr "Да, можете да скриете цената на определен продукт.\n"
+
+#: view/help_support/faqs.php:37
+
+msgid "Q3."
+msgstr "Q3."
+
+#: view/help_support/faqs.php:41
+
+msgid "Can I customize my quote list page?\n"
+msgstr "Мога ли да персонализирам страницата на моя списък с оферти?\n"
+
+#: view/help_support/faqs.php:53
+
+msgid ""
+"Yes, ELEX Request a Quote plugin allows you to customize & enhance your "
+"frontend quote list page.\n"
+msgstr ""
+"Да, ELEX Заявка за оферта плъгин ви позволява да персонализирате & "
+"подобряване на вашия интерфейса цитат списък страница.\n"
+
+#: view/help_support/faqs.php:65
+
+msgid "Q4."
+msgstr "Q4."
+
+#: view/help_support/faqs.php:69
+
+msgid "Does this plugin have the option to customize the Emails template?\n"
+msgstr "Този плъгин има ли възможност да персонализира шаблона за имейли?\n"
+
+#: view/help_support/faqs.php:81
+
+msgid ""
+"Yes, this plugin gives you the option to select from the predefined template "
+"or customize & create your own email template.\n"
+msgstr ""
+"Да, този плъгин ви дава възможност да изберете от предварително зададения "
+"шаблон или да персонализирате & създадете свой собствен шаблон за имейл.\n"
+
+#: view/help_support/faqs.php:93
+
+msgid "Q5."
+msgstr "Q5."
+
+#: view/help_support/faqs.php:94
+
+msgid ""
+"Can I restrict guest/ unregistered users from adding products into the Quote "
+"List and redirect them to the login or sign up page?"
+msgstr ""
+"Мога ли да огранича гост/нерегистрираните потребители да добавят продукти в "
+"списъка с оферти и да ги пренасоча към страницата за вход или регистрация?"
+
+#: view/help_support/faqs.php:102
+
+msgid ""
+"Yes, this option is available in the plugin settings. We have a separate "
+"option for this where you can enable and redirect the guest/unregistered "
+"users to create an account or sign in to request a quote\n"
+msgstr ""
+"Да, тази опция е налична в настройките на приставката. Имаме отделна опция "
+"за това, където можете да активирате и пренасочите гост / нерегистрираните "
+"потребители да създадат акаунт или да влязат, за да поискат оферта\n"
+
+#: view/help_support/tickets.php:6
+
+msgid "Before raising the ticket, we recommend you to go through our detailed"
+msgstr ""
+"Преди да повишите билета, ви препоръчваме да преминете през нашите подробни"
+
+#: view/help_support/tickets.php:6
+
+msgid "documentation."
+msgstr "документация."
+
+#: view/help_support/tickets.php:7
+msgid "Or"
+msgstr "Или"
+
+#: view/help_support/tickets.php:8
+
+msgid ""
+"To get in touch with one of our helpdesk representatives, please raise a "
+"support ticket on our website."
+msgstr ""
+"За да се свържете с един от нашите представители на бюрото за помощ, моля, "
+"вдигнете билет за поддръжка на нашия уебсайт."
+
+#: view/help_support/tickets.php:9
+
+msgid ""
+"* Please don`t forget to attach your System Info File with the request for "
+"better support."
+msgstr ""
+"* Моля, не забравяйте да прикачите вашия System Info File с искането за по-"
+"добра поддръжка."
+
+#: view/help_support/tickets.php:13
+
+msgid "Raise a ticket"
+msgstr "Вдигнете билет"
+
+#: view/help_support/tickets.php:21
+
+msgid ""
+"To copy the System Info, click below then press Ctrl + C (PC) or Cmd + C "
+"(Mac)."
+msgstr ""
+"За да копирате системната информация, щракнете по-долу, след което натиснете "
+"Ctrl + C (PC) или Cmd + C (Mac)."
+
+#: view/help_support/tickets.php:31
+msgid "Download System Info"
+msgstr "Изтегляне на информация за системата"
+
+#: view/listpage_form_setting/additional_options.php:13
+
+msgid "Show \"Update List\" Button"
+msgstr "Показване на бутона \"Актуализиране на списък\""
+
+#: view/listpage_form_setting/additional_options.php:41
+
+msgid "Show \"Clear List\" Button"
+msgstr "Показване на бутона \"Изчисти списъка\""
+
+#: view/listpage_form_setting/additional_options.php:72
+
+msgid "\"Add more Items\" Button"
+msgstr "Бутон \"Добавяне на още елементи\""
+
+#: view/listpage_form_setting/additional_options.php:92
+#: view/listpage_form_setting/quote_list.php:76
+#: view/listpage_form_setting/quote_list.php:95
+#: view/listpage_form_setting/quote_list.php:242
+#: view/notification_settings/general.php:109
+#: view/notification_settings/google_chat.php:33
+#: view/notification_settings/sms.php:20 view/settings/template.php:79
+#: view/settings/widget.php:18 view/settings/widget.php:83
+#: view/settings/widget.php:149
+msgid "checked"
+msgstr "отбелязан"
+
+#: view/listpage_form_setting/additional_options.php:104
+
+msgid "\"Add more Items\" Button Label"
+msgstr "Етикет на бутона \"Добавяне на още елементи\""
+
+#: view/listpage_form_setting/additional_options.php:123
+
+msgid "Add More items"
+msgstr "Добавяне на още елементи"
+
+#: view/listpage_form_setting/additional_options.php:133
+
+msgid "\"Add More Items\" Button Redirect Page"
+msgstr "Бутон \"Добавяне на още елементи\" Страница за пренасочване"
+
+#: view/listpage_form_setting/quote_list.php:10
+
+msgid "Select \"Quote List\" Page"
+msgstr "Изберете страница \"Списък с оферти\""
+
+#: view/listpage_form_setting/quote_list.php:43
+
+msgid "Quote List Page Title"
+msgstr "Заглавие на страница от списък с оферти"
+
+#: view/listpage_form_setting/quote_list.php:62
+
+msgid "Quote List"
+msgstr "Списък с оферти"
+
+#: view/listpage_form_setting/quote_list.php:71
+
+msgid "\"Quote List\" Page Layout"
+msgstr "Оформление на страница \"Списък с оферти\""
+
+#: view/listpage_form_setting/quote_list.php:91
+
+msgid "Product list on the left & form on the right"
+msgstr "Списък с продукти отляво & форма отдясно"
+
+#: view/listpage_form_setting/quote_list.php:110
+
+msgid "Product list on the top & form on the bottom"
+msgstr "Списък с продукти в горната част & форма в долната част"
+
+#: view/listpage_form_setting/quote_list.php:121
+
+msgid "Choose What to Show If List is Empty"
+msgstr "Изберете какво да се показва, ако списъкът е празен"
+
+#: view/listpage_form_setting/quote_list.php:124
+#: view/listpage_form_setting/quote_list.php:174 view/settings/general.php:477
+#: view/settings/general.php:657 view/settings/general.php:795
+#: view/settings/general.php:836 view/settings/hide_addtocart_price.php:102
+#: view/settings/hide_addtocart_price.php:269 view/settings/template.php:51
+#: view/settings/template.php:231
+
+msgid "[Premium]"
+msgstr "[Премиум]"
+
+#: view/listpage_form_setting/quote_list.php:135
+
+msgid "Illustration"
+msgstr "Илюстрация"
+
+#: view/listpage_form_setting/quote_list.php:142
+
+msgid "Empty Text"
+msgstr "Празен текст"
+
+#: view/listpage_form_setting/quote_list.php:150
+
+msgid "\"Go to Shop Page\" button\""
+msgstr "Бутон \"Отиди на страницата на магазина\""
+
+#: view/listpage_form_setting/quote_list.php:158
+
+msgid "Quote a Request Form"
+msgstr "Формуляр за запитване"
+
+#: view/listpage_form_setting/quote_list.php:171
+
+msgid "Contents to Show in Product Table"
+msgstr "Съдържание за показване в продуктовата таблица"
+
+#: view/listpage_form_setting/quote_list.php:185
+msgid "Product Image"
+msgstr "Изображение на продукта"
+
+#: view/listpage_form_setting/quote_list.php:190
+msgid "Product Price"
+msgstr "Цена на продукт."
+
+#: view/listpage_form_setting/quote_list.php:201
+
+msgid "Each Product Subtotal"
+msgstr "Междинна сума на всеки продукт"
+
+#: view/listpage_form_setting/quote_list.php:206
+msgid "Product SKU"
+msgstr "Код на продукта"
+
+#: view/listpage_form_setting/quote_list.php:211
+msgid "Taxes"
+msgstr "Данъци"
+
+#: view/listpage_form_setting/quote_list.php:222
+
+msgid "Show \"Powered by ELEX Request a Quote\""
+msgstr "Покажи \"Осъществено от ELEX Запитване за оферта\""
+
+#: view/market.php:99
+
+msgid "Note: Basic version supports only few features."
+msgstr "Забележка: Основната версия поддържа само няколко функции."
+
+#: view/market.php:100
+
+msgid "Your business is precious! Go Premium to get below features."
+msgstr ""
+"Вашият бизнес е ценен! Отидете Premium, за да получите по-долу функции."
+
+#: view/market.php:101
+
+msgid " -  Product-based exclusion for Request a Quote."
+msgstr " - Изключване въз основа на продукт за искане на оферта."
+
+#: view/market.php:103
+
+msgid " - User role-based exclusion for Request a Quote."
+msgstr " - Изключване, базирано на ролята на потребителя, за искане на оферта."
+
+#: view/market.php:104
+
+msgid "- Disable Request a Quote option for unregistered users."
+msgstr ""
+"- Деактивиране на опцията Заявка за оферта за нерегистрирани потребители."
+
+#: view/market.php:105
+
+msgid "- Exclude Request a Quote based on the product stocks."
+msgstr "- Изключване Заявка за оферта въз основа на запасите от продукти."
+
+#: view/market.php:106
+
+msgid "- Product-based exclusion from the 'Hide Add to Cart and Price' option."
+msgstr ""
+"- Изключване на базата на продукти от опцията \"Скриване на Добави в "
+"кошницата и цената\"."
+
+#: view/market.php:107
+
+msgid ""
+"- User role-based exclusion from the 'Hide Add to Cart and Price' option."
+msgstr ""
+"- Изключване въз основа на роли на потребителя от опцията \"Скриване на "
+"Добави в кошницата и цената\"."
+
+#: view/market.php:109
+
+msgid "- Quote list customization option for an empty quote list page."
+msgstr ""
+"- Опция за персонализиране на списъка с оферти за празна страница със списък "
+"с оферти."
+
+#: view/market.php:111
+
+msgid "- Product table customization option for the quote list page."
+msgstr ""
+"- Опция за персонализиране на продуктовата таблица за страницата на списъка "
+"с оферти."
+
+#: view/market.php:123
+
+msgid "You May Also like"
+msgstr "Може също да харесате"
+
+#: view/notification_settings/general.php:16
+
+msgid "Notifications Email Address"
+msgstr "Имейл адрес за известия"
+
+#: view/notification_settings/general.php:42
+
+msgid "Select Order Statuses To Notify Customers"
+msgstr "Изберете Статуси на поръчката, за да уведомите клиентите"
+
+#: view/notification_settings/general.php:66
+
+msgid ""
+"Quote Requested\n"
+"                                        "
+msgstr ""
+"Поискана оферта\n"
+"                                        "
+
+#: view/notification_settings/general.php:76
+
+msgid ""
+"Quote Approved\n"
+"                                        "
+msgstr ""
+"Офертата е одобрена\n"
+"                                        "
+
+#: view/notification_settings/general.php:91
+msgid "Debug Log"
+msgstr "Регистри за Грешки"
+
+#: view/notification_settings/google_chat.php:48
+msgid "Webhook URL"
+msgstr "Webhook URL"
+
+#: view/notification_settings/sms.php:32
+, php-format
+msgid ""
+"Enable to receive SMS notification when the customer makes a quote request. "
+"Sign up for a new Twilio account %1$s."
+msgstr ""
+"Активирайте получаването на SMS известие, когато клиентът направи заявка за "
+"оферта. Регистрирайте се за нов акаунт в Twilio %1$s."
+
+#: view/notification_settings/sms.php:45
+
+msgid "Twilio SID"
+msgstr "Твилио СИД"
+
+#: view/notification_settings/sms.php:74
+
+msgid "Twilio Token"
+msgstr "Twilio Token"
+
+#: view/notification_settings/sms.php:106
+
+msgid "Twilio Mobile Number"
+msgstr "Мобилен номер Twilio"
+
+#: view/notification_settings/sms.php:138
+
+msgid "Notification Mobile Number"
+msgstr "Мобилен номер за уведомяване"
+
+#: view/output.php:15
+msgid ""
+"\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+
+#: view/output.php:40 view/output.php:41 view/output.php:42 view/output.php:43
+#: view/output.php:44 view/output.php:45 view/output.php:46 view/output.php:59
+#: view/output.php:62 view/output.php:83 view/output.php:84 view/output.php:86
+#: view/output.php:143
+msgid "\n"
+msgstr "\n"
+
+#: view/output.php:47
+msgid "Yes"
+msgstr "Да"
+
+#: view/output.php:53
+
+msgid "Length: "
+msgstr "Дължина: "
+
+#: view/output.php:54
+
+msgid " Status:"
+msgstr " Статус:"
+
+#: view/output.php:56
+
+msgid " ERROR: Too Long"
+msgstr " ГРЕШКА: Твърде дълго"
+
+#: view/output.php:58
+
+msgid " Acceptable"
+msgstr " Приемлив"
+
+#: view/output.php:66 view/output.php:71
+
+msgid " (#"
+msgstr " ( #"
+
+#: view/output.php:76
+msgid "Enabled"
+msgstr "Разрешен"
+
+#: view/output.php:83
+
+msgid "On ("
+msgstr "На ("
+
+#: view/output.php:84
+
+msgid "Your server supports fsockopen."
+msgstr "Вашият сървър поддържа fsockopen."
+
+#: view/output.php:85
+
+msgid "Your server supports cURL."
+msgstr "Вашият сървър поддържа cURL."
+
+#: view/output.php:86
+
+msgid "Your server has the SOAP Client enabled."
+msgstr "Вашият сървър има активиран SOAP клиент."
+
+#: view/output.php:116
+
+msgid "Site Health Info:"
+msgstr "Информация за здравето на сайта:"
+
+#: view/quote/quote_list_main.php:5
+
+msgid "Powered by ELEX Request a Quote "
+msgstr "Осъществено от ELEX Запитване за оферта "
+
+#: view/quote/view_quote_list.php:4
+
+msgid "View Quote List"
+msgstr "Преглед на списък с оферти"
+
+#: view/saved_toast.php:12
+
+msgid "Changes Saved Successfully!"
+msgstr "Промените са записани успешно!"
+
+#: view/settings/general.php:14
+
+msgid "Quote Button on Shop Page"
+msgstr "Бутон \"Оферта\" на страницата на магазина"
+
+#: view/settings/general.php:47
+
+msgid "Quote Button on Product Page"
+msgstr "Бутон за оферта на страницата на продукта"
+
+#: view/settings/general.php:77
+
+msgid "Quote Button Configurations"
+msgstr "Конфигурации на бутони за оферта"
+
+#: view/settings/general.php:83
+
+msgid "Open Quote Form"
+msgstr "Отвори формуляра за оферта"
+
+#: view/settings/general.php:109
+
+msgid "In a New Page"
+msgstr "В нова страница"
+
+#: view/settings/general.php:112
+
+msgid "In a Light Box"
+msgstr "В светлинна кутия"
+
+#: view/settings/general.php:124
+
+msgid "Add to Quote Success Alert Message"
+msgstr "Добави към цитат Предупреждение за успех Съобщение"
+
+#: view/settings/general.php:162
+
+msgid "Quote Button Customization"
+msgstr "Персонализиране на бутона за оферта"
+
+#: view/settings/general.php:166
+
+msgid "Quote Button Label"
+msgstr "Етикет на бутон за оферта"
+
+#: view/settings/general.php:199
+
+msgid "Quote Button Default Color"
+msgstr "Цвят по подразбиране на бутона за оферта"
+
+#: view/settings/general.php:239
+msgid "Filter Products"
+msgstr "Филтър за Продуктите"
+
+#: view/settings/general.php:246
+
+msgid ""
+"The quote button will be added to all the products by\n"
+"                default. If you want to include\n"
+"                or exclude certain products, use the filter options given "
+"below."
+msgstr ""
+"Бутонът за оферта ще бъде добавен към всички продукти от\n"
+"                По подразбиране. Ако искате да включите\n"
+"                или да изключите определени продукти, използвайте опциите за "
+"филтриране, дадени по-долу."
+
+#: view/settings/general.php:263
+
+msgid "Include Products"
+msgstr "Включване на продукти"
+
+#: view/settings/general.php:282
+
+msgid ""
+"Select the products for which request a quote settings should\n"
+"                                        be applied. Rest of the products "
+"will be excluded\n"
+"                                        automatically."
+msgstr ""
+"Изберете продуктите, за които трябва да поискате настройки за оферта\n"
+"                                        да се прилагат. Останалите продукти "
+"ще бъдат изключени\n"
+"                                        Автоматично."
+
+#: view/settings/general.php:303
+
+msgid "Include Products By Category"
+msgstr "Включване на продукти по категория"
+
+#: view/settings/general.php:359
+
+msgid "Include Products By Name"
+msgstr "Включване на продукти по име"
+
+#: view/settings/general.php:415
+
+msgid "Include Products By Tags"
+msgstr "Включване на продукти по тагове"
+
+#: view/settings/general.php:474
+
+msgid "Exclude Product"
+msgstr "Изключване на продукт"
+
+#: view/settings/general.php:497
+
+msgid ""
+"Select the products for which request a quote settings should\n"
+"                                        not be applied."
+msgstr ""
+"Изберете продуктите, за които трябва да поискате настройки за оферта\n"
+"                                        не се прилага."
+
+#: view/settings/general.php:517 view/settings/hide_addtocart_price.php:127
+
+msgid "Exclude Products By Category"
+msgstr "Изключване на продукти по категория"
+
+#: view/settings/general.php:561 view/settings/hide_addtocart_price.php:171
+
+msgid "Exclude Products By Name"
+msgstr "Изключване на продукти по име"
+
+#: view/settings/general.php:604 view/settings/hide_addtocart_price.php:215
+
+msgid "Exclude Products By Tags"
+msgstr "Изключване на продукти по етикети"
+
+#: view/settings/general.php:654
+
+msgid "Role Based Filter"
+msgstr "Филтър, базиран на роли"
+
+#: view/settings/general.php:677
+
+msgid ""
+"Select the roles for which request a quote settings should be\n"
+"                                        applied/not."
+msgstr ""
+"Изберете ролите, за които трябва да бъдат поискани настройки за оферта\n"
+"                                        приложено/не."
+
+#: view/settings/general.php:697
+
+msgid "Include Roles"
+msgstr "Включване на роли"
+
+#: view/settings/general.php:742
+msgid "Exclude Roles"
+msgstr "Изключване на ролите"
+
+#: view/settings/general.php:792
+
+msgid "Disable Quote Request for Unregistered Users"
+msgstr "Забрани искането за оферта за нерегистрирани потребители"
+
+#: view/settings/general.php:812
+
+msgid ""
+"By enabling this option guest users can be redirected to the\n"
+"                                        My Account page for registration."
+msgstr ""
+"Чрез активиране на тази опция гост потребителите могат да бъдат пренасочени "
+"към\n"
+"                                        Страницата на моя акаунт за "
+"регистрация."
+
+#: view/settings/general.php:833
+
+msgid "Include/Exclude products based on stock"
+msgstr "Включване/изключване на продукти на склад"
+
+#: view/settings/general.php:866
+
+msgid "Show Add to Quote Button for all the products"
+msgstr "Покажи бутона \"Добави към офертата\" за всички продукти"
+
+#: view/settings/general.php:871
+
+msgid "Hide Add to Quote button for Out of Stock products"
+msgstr "Скрий бутона \"Добави към офертата\" за изчерпани продукти"
+
+#: view/settings/general.php:878
+
+msgid ""
+"Show Add to Quote button only for Out of Stock\n"
+"                                        products"
+msgstr ""
+"Покажи бутона \"Добави към офертата\" само за \"Изчерпано количество\"\n"
+"                                        Продукти"
+
+#: view/settings/general.php:895
+
+msgid "Third Party API key"
+msgstr "Ключ за API на трета страна"
+
+#: view/settings/general.php:903
+
+msgid ""
+"In case you want to get quote requests/orders via third party plugins, Turn "
+"On the below\n"
+"\t\t\t\t\tfunctionality & get the API key."
+msgstr ""
+"В случай, че искате да получите заявки / поръчки за оферти чрез плъгини на "
+"трети страни, включете по-долу\n"
+"\t\t\t\t\tфункционалност & получите ключа API."
+
+#: view/settings/general.php:919
+
+msgid "Third Party Usage"
+msgstr "Използване от трети страни"
+
+#: view/settings/general.php:932
+
+msgid "Turn this ON, to get the API Key."
+msgstr "Включете това, за да получите ключа API."
+
+#: view/settings/general.php:939
+
+msgid "Rest API Key"
+msgstr "Ключ за API за почивка"
+
+#: view/settings/general.php:991
+
+msgid "Copied Successfully!"
+msgstr "Копирано успешно!"
+
+#: view/settings/general.php:1008
+
+msgid "Error copying text"
+msgstr "Грешка при копиране на текст"
+
+#: view/settings/hide_addtocart_price.php:19
+
+msgid "Hide Add to Cart Button on Shop Page"
+msgstr "Бутон \"Скрий Добави в кошницата\" на страницата на магазина"
+
+#: view/settings/hide_addtocart_price.php:32
+
+msgid "Turn on hide add to cart button on shop page"
+msgstr "Включи скрий бутона \"Добави в кошницата\" на страницата на магазина"
+
+#: view/settings/hide_addtocart_price.php:47
+
+msgid "Hide Add to Cart Button on Product Page"
+msgstr "Скрий бутона \"Добави в кошницата\" на страницата на продукта"
+
+#: view/settings/hide_addtocart_price.php:57
+
+msgid "Turn on hide add to cart button on product page."
+msgstr ""
+"Включете бутона за скриване на бутона за добавяне в количката на страницата "
+"на продукта."
+
+#: view/settings/hide_addtocart_price.php:72
+msgid "Hide Price"
+msgstr "Скрии Цена"
+
+#: view/settings/hide_addtocart_price.php:83
+
+msgid "Turn onto hide price in the Product page, Shop Page and Quote List Page"
+msgstr ""
+"Включете скриване на цената в страницата на продукта, страницата на магазина "
+"и страницата на списъка с оферти"
+
+#: view/settings/hide_addtocart_price.php:99
+
+msgid "Exclude Products"
+msgstr "Изключване на продукти"
+
+#: view/settings/hide_addtocart_price.php:115
+
+msgid ""
+"Turn on & Select the Products for which the above settings should not be "
+"applied"
+msgstr ""
+"Включване & Изберете продуктите, за които горните настройки не трябва да се "
+"прилагат"
+
+#: view/settings/hide_addtocart_price.php:266
+
+msgid "Exclude User Role"
+msgstr "Изключване на потребителска роля"
+
+#: view/settings/hide_addtocart_price.php:284
+
+msgid ""
+"Turn on & Select the Roles for which the above settings should not be applied"
+msgstr ""
+"Включване & Изберете ролите, за които горните настройки не трябва да се "
+"прилагат"
+
+#: view/settings/hide_addtocart_price.php:297
+
+msgid "Exclude User Roles"
+msgstr "Изключване на потребителски роли"
+
+#: view/settings/template.php:10
+
+msgid ""
+"You can configure your email and sms/chat template here,\n"
+"                Make use of placeholders to\n"
+"                fill the fields dynamically."
+msgstr ""
+"Можете да конфигурирате вашия имейл и sms/чат шаблон тук,\n"
+"                Използвайте контейнери за\n"
+"                Попълнете полетата динамично."
+
+#: view/settings/template.php:19
+
+msgid ""
+"Please note that placeholders can be applied only to\n"
+"                the\n"
+"                email and chat/sms body."
+msgstr ""
+"Моля, обърнете внимание, че контейнерите могат да се прилагат само за\n"
+"                т по\n"
+"                имейл и чат / sms тяло."
+
+#: view/settings/template.php:28
+
+msgid ""
+"Also note, the @payment_link placeholder can only be\n"
+"                applied to\n"
+"                the email body sent after the quote is approved. You can "
+"also include HTML tags and\n"
+"                inline styles in the email body but the same wont be "
+"applicable to the chat/sms\n"
+"                body."
+msgstr ""
+"Също така имайте предвид, че контейнерът за @payment_link може да бъде само\n"
+"                Прилага се към\n"
+"                тялото на имейла, изпратено след одобряването на офертата. "
+"Можете също да включите HTML тагове и\n"
+"                вградени стилове в тялото на имейла, но същото няма да е "
+"приложимо за чата / sms\n"
+"                тяло."
+
+#: view/settings/template.php:48
+
+msgid "Use Predefined Email Templates"
+msgstr "Използване на предварително дефинирани шаблони за имейл"
+
+#: view/settings/template.php:56
+
+msgid ""
+"Enable this option to use predefined email templates within the plugin. You "
+"can configure the email content below."
+msgstr ""
+"Активирайте тази опция, за да използвате предварително дефинирани шаблони за "
+"имейл в рамките на приставката. Можете да конфигурирате съдържанието на "
+"имейла по-долу."
+
+#: view/settings/template.php:90
+msgid "Email Template"
+msgstr "Шаблон за имейл"
+
+#: view/settings/template.php:107 view/settings/template.php:153
+#: view/settings/template.php:195
+
+msgid "Preview Template"
+msgstr "Шаблон за визуализация"
+
+#: view/settings/template.php:144
+
+msgid ""
+"Rectangle Logo\n"
+"\t\t\t\t\t\t\t\t\t\t\tTemplate"
+msgstr ""
+"Правоъгълник Logo\n"
+"\t\t\t\t\t\t\t\t\t\t\tШаблон"
+
+#: view/settings/template.php:191
+
+msgid "Non Logo Template"
+msgstr "Шаблон без емблема"
+
+#: view/settings/template.php:228
+msgid "Company Logo"
+msgstr "Лого на фирмата"
+
+#: view/settings/template.php:241 view/settings/template.php:249
+
+msgid "d-none"
+msgstr "д-няма"
+
+#: view/settings/template.php:241
+msgid "Upload Image"
+msgstr "Качи снимка"
+
+#: view/settings/template.php:260
+
+msgid "upload png or jpeg file"
+msgstr "Качване на PNG или JPEG файл"
+
+#: view/settings/template.php:270
+
+msgid "Terms and Condition"
+msgstr "Общи условия"
+
+#: view/settings/template.php:272
+
+msgid ""
+"Enable this option if you wish to include the terms and conditions in the "
+"email template."
+msgstr ""
+"Активирайте тази опция, ако искате да включите правилата и условията в "
+"шаблона за имейл."
+
+#: view/settings/template.php:304
+
+msgid "Terms and Condition Content"
+msgstr "Общи условия Съдържание"
+
+#: view/settings/template.php:319
+
+msgid "Quote Request Email Template: Sent to the Site Administrator"
+msgstr ""
+"Шаблон за имейл на искане за оферта: Изпратен до администратора на сайта"
+
+#: view/settings/template.php:326 view/settings/template.php:441
+#: view/settings/template.php:550 view/settings/template.php:660
+msgid "Email Subject"
+msgstr "Тема на съобщението"
+
+#: view/settings/template.php:352
+msgid "Quote Request"
+msgstr "Поискай оферта"
+
+#: view/settings/template.php:361 view/settings/template.php:475
+#: view/settings/template.php:584 view/settings/template.php:694
+msgid "Email Heading"
+msgstr "Заглавка за е-Писмо"
+
+#: view/settings/template.php:386 view/settings/template.php:500
+
+msgid "Your Quote Request has been received."
+msgstr "Вашата заявка за оферта е получена."
+
+#: view/settings/template.php:396 view/settings/template.php:510
+#: view/settings/template.php:619 view/settings/template.php:729
+
+msgid "Email Body"
+msgstr "Тяло на имейла"
+
+#: view/settings/template.php:434
+
+msgid "Quote Requested Email Template: Sent to the Customer"
+msgstr "Поискан шаблон за имейл: Изпратен на клиента"
+
+#: view/settings/template.php:543
+
+msgid "Quote Approved Email Template: Sent to the Customer"
+msgstr "Шаблон за одобрен имейл: Изпратен на клиента"
+
+#: view/settings/template.php:609
+
+msgid "Your Quote Request has been approved."
+msgstr "Вашето искане за оферта е одобрено."
+
+#: view/settings/template.php:653
+
+msgid "Quote Rejected Email Template: Sent to the Customer"
+msgstr "Шаблон за отхвърлен имейл: Изпратен на клиента"
+
+#: view/settings/template.php:719
+
+msgid "Your Quote Request has been rejected."
+msgstr "Вашето искане за оферта е отхвърлено."
+
+#: view/settings/template.php:763
+
+msgid ""
+"Quote Requested SMS / Google Chat Template: Sent to the Site Administrator"
+msgstr ""
+"Поискана оферта SMS / Google чат шаблон: Изпратено до администратора на сайта"
+
+#: view/settings/template.php:770
+
+msgid "SMS And Google Chat Body"
+msgstr "SMS и Google чат тяло"
+
+#: view/settings/template.php:812
+msgid "Title"
+msgstr "Заглавие"
+
+#: view/settings/template.php:813
+msgid "Placeholder"
+msgstr "Заместител"
+
+#: view/settings/template.php:818
+
+msgid "Core Fields"
+msgstr "Основни полета"
+
+#: view/settings/template.php:823
+msgid "Billing First Name"
+msgstr "Фактура име"
+
+#: view/settings/template.php:824
+
+msgid "@billing_first_name"
+msgstr "@billing_first_name"
+
+#: view/settings/template.php:828
+msgid "Billing Last Name"
+msgstr "Фактура фамилия"
+
+#: view/settings/template.php:829
+
+msgid "@billing_last_name"
+msgstr "@billing_last_name"
+
+#: view/settings/template.php:833
+msgid "Billing Company"
+msgstr "Фактура фирма"
+
+#: view/settings/template.php:834
+
+msgid "@billing_company"
+msgstr "@billing_company"
+
+#: view/settings/template.php:838
+
+msgid "Billing Country"
+msgstr "Държава на фактуриране"
+
+#: view/settings/template.php:839
+
+msgid "@billing_country"
+msgstr "@billing_country"
+
+#: view/settings/template.php:842
+msgid "Billing Address 1"
+msgstr "Фактура Адрес 1"
+
+#: view/settings/template.php:843
+
+msgid "@billing_address_1"
+msgstr "@billing_address_1"
+
+#: view/settings/template.php:847
+msgid "Billing Address 2"
+msgstr "Фактура Адрес 2"
+
+#: view/settings/template.php:848
+
+msgid "@billing_address_2"
+msgstr "@billing_address_2"
+
+#: view/settings/template.php:851
+msgid "Billing City"
+msgstr "Фактура град"
+
+#: view/settings/template.php:852
+
+msgid "@billing_city"
+msgstr "@billing_city"
+
+#: view/settings/template.php:855
+msgid "Billing State"
+msgstr "Фактура щат"
+
+#: view/settings/template.php:856
+
+msgid "@billing_state"
+msgstr "@billing_state"
+
+#: view/settings/template.php:859
+
+msgid "Billing Postcode"
+msgstr "Пощенски код за фактуриране"
+
+#: view/settings/template.php:860
+
+msgid "@billing_postcode"
+msgstr "@billing_postcode"
+
+#: view/settings/template.php:863
+
+msgid "Billing Phone"
+msgstr "Телефон за фактуриране"
+
+#: view/settings/template.php:864
+
+msgid "@billing_phone"
+msgstr "@billing_phone"
+
+#: view/settings/template.php:867
+msgid "Billing Email"
+msgstr "Имейл адрес при поръчка *задължително"
+
+#: view/settings/template.php:868
+
+msgid "@billing_email"
+msgstr "@billing_email"
+
+#: view/settings/template.php:871
+msgid "Order Items"
+msgstr "Подредба"
+
+#: view/settings/template.php:872
+
+msgid "@order_items"
+msgstr "@order_items"
+
+#: view/settings/template.php:875
+
+msgid "Payment Link"
+msgstr "Връзка за плащане"
+
+#: view/settings/template.php:876
+
+msgid "@payment_link"
+msgstr "@payment_link"
+
+#: view/settings/template.php:879
+msgid "Customer Note"
+msgstr "Забележката на Клиента"
+
+#: view/settings/template.php:880
+
+msgid "@customer_note"
+msgstr "@customer_note"
+
+#: view/settings/template.php:883
+msgid "Custom Fields"
+msgstr "Персонализирани полета"
+
+#: view/settings/widget.php:11
+
+msgid "Show Quote List Icon"
+msgstr "Покажи иконата на списъка с оферти"
+
+#: view/settings/widget.php:31
+
+msgid "Quote List Color On Hover"
+msgstr "Цвят на списъка с цитати при посочване"
+
+#: view/settings/widget.php:62
+
+msgid "Show Button Label Next to Icon"
+msgstr "Покажи етикета на бутона до иконата"
+
+#: view/settings/widget.php:95
+msgid "Button Label"
+msgstr "Етикет за Бутона"
+
+#: view/settings/widget.php:130
+
+msgid "Show List Pop Up on Hover"
+msgstr "Показване на изскачащ списък при посочване"
+
+#. Plugin Name of the plugin/theme
+
+msgid "ELEX WooCommerce Request a Quote"
+msgstr "ELEX WooCommerce Запитване за оферта"
+
+#. Plugin URI of the plugin/theme
+
+msgid "https://elextensions.com/plugin/"
+msgstr "https://elextensions.com/plugin/"
+
+#. Description of the plugin/theme
+
+msgid ""
+"Create Request a Quote option for your WooCommerce products. You can also "
+"create and customize request a quote forms to be displayed on the frontend. "
+"The plugin will also send automated email notifications for quote "
+"submissions, approvals, and rejections."
+msgstr ""
+"Създайте опция Заявка за оферта за вашите продукти на WooCommerce. Можете "
+"също да създавате и персонализирате искане на формуляри за оферта, които да "
+"се показват в клиентската част. Приставката също така ще изпраща автоматични "
+"известия по имейл за подаване на оферти, одобрения и отхвърляния."
+
+#. Author of the plugin/theme
+
+msgid "ELEXtensions"
+msgstr "ELEXtensions"
+
+#. Author URI of the plugin/theme
+
+msgid "https://elextensions.com/"
+msgstr "https://elextensions.com/"

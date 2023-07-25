@@ -16,6 +16,7 @@ $footer_nav_menu = wp_nav_menu( [
 ] );
 ?>
 <footer id="site-footer" class="site-footer" role="contentinfo">
+	
 	<?php if ( $footer_nav_menu ) : ?>
 		<nav class="site-navigation">
 			<?php

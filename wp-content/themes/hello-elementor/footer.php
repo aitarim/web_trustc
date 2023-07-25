@@ -8,6 +8,7 @@
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
+	
 	exit; // Exit if accessed directly.
 }
 
@@ -19,7 +20,7 @@ if ( ! function_exists( 'elementor_theme_do_location' ) || ! elementor_theme_do_
 	}
 }
 ?>
-
+<?php dynamic_sidebar( 'smartslider_area_1' ); ?>
 <?php wp_footer(); ?>
 
 </body>
